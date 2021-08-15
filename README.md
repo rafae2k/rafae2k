@@ -21,7 +21,7 @@
 
 - 📫 How to reach me ...
     
-  [Linkedin](https://www.linkedin.com/in/rafaeljrf/)
-  [Instagram](https://www.instagram.com/eu.rafo)
+  * [Linkedin](https://www.linkedin.com/in/rafaeljrf/)
+  * [Instagram](https://www.instagram.com/eu.rafo)
 
   
