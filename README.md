@@ -3,19 +3,19 @@
 
 - 👀 I’m interested in ...
   
-  UX/UI 
-  Design
-  Front-page Developing
-  iOS Developing
+  1.UX/UI 
+  2.Design
+  3.Front-page Developing
+  4.iOS Developing
 
 - 🌱 I’m currently learning ...
 
-  Front-end:
-  HTML
-  Javascript
-  CSS
+  // Front-end:
+  - HTML
+  - Javascript
+  - CSS
   
-  UX/UI
+  // UX/UI
   
   Project Management 
 
