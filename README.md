@@ -3,10 +3,10 @@
 
 - 👀 I’m interested in ...
   
-  1.UX/UI 
-  2.Design
-  3.Front-page Developing
-  4.iOS Developing
+  - UX/UI 
+  - Design
+  - Front-page Developing
+  - iOS Developing
 
 - 🌱 I’m currently learning ...
 
@@ -17,7 +17,7 @@
   
   // UX/UI
   
-  Project Management 
+  // Project Management 
 
 - 📫 How to reach me ...
     
