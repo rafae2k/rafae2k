@@ -5,7 +5,7 @@
   
   - UX/UI 
   - Design
-  - Front-page Developing
+  - Front-end Developing
   - iOS Developing
 
 - 🌱 I’m currently learning ...
