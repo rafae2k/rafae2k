@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/rafae2k/nft-card-frontendmentor/ec9a9c50e7f354ad1627a5ededc02df98be62825/images/icon-clock.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafo!</h1>
 
 ![counter](https://enhidfim5w4jdxw.m.pipedream.net)
 
