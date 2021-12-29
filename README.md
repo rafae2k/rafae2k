@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/rafae2k/nft-card-frontendmentor/ec9a9c50e7f354ad1627a5ededc02df98be62825/images/icon-clock.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafo!</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Rafo!</h1>
 
 ![counter](https://enhidfim5w4jdxw.m.pipedream.net)
 
@@ -48,10 +48,10 @@
 <table>
   
   <th>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafae2k&show_icons=true&theme=vision-friendly-dark" alt="Rafo's stats"/>    
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafae2k&show_icons=true&theme=radical&count_private=true" alt="Rafo's stats"/>    
   </th>
   <th>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>    
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=radical" alt="maykbrito's most languages"/>    
   </th>
 </table
 
