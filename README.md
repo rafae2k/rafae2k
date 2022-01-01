@@ -38,7 +38,7 @@
   <img align="center" src="https://img.shields.io/badge/Linkedin-rafael&nbsp;feitoza-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eu.rafo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eurafo-e2006d?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/eurafo-e2006d?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
 <br><br>
@@ -46,14 +46,16 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <table>
-  
   <th>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafae2k&show_icons=true&theme=radical&count_private=true" alt="Rafo's stats"/>    
+    <img height="250em" align="middle" src="http://github-readme-streak-stats.herokuapp.com?user=rafae2k&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
   </th>
   <th>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=radical" alt="maykbrito's most languages"/>    
+    <img height="252em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=radical" alt="Rafo's most used languages"/>    
   </th>
-</table
+  <tr>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafae2k&show_icons=true&theme=radical&count_private=true" alt="Rafo's stats"/>
+  </tr>
+</table>
 
 
 
