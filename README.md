@@ -4,7 +4,7 @@
 
 ![counter](https://enhidfim5w4jdxw.m.pipedream.net)
 
-- 🇧🇷 Brazilian
+- 🇧🇷 Brazilian, living in São Paulo
 
 - 🔥 Product Designer and **Junior Web Developer**
 
