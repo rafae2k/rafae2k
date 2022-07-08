@@ -39,8 +39,8 @@
 <a href="https://linkedin.com/in/eurafo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Linkedin-rafael&nbsp;feitoza-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/eu.rafo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/eurafo-e2006d?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+<a href="https://instagram.com/moi.rafo" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/moi.rafo-e2006d?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
 <br><br>
