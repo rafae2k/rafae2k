@@ -4,9 +4,9 @@
 
 ![counter](https://enhidfim5w4jdxw.m.pipedream.net)
 
-- 🇧🇷 Brazilian, living in São Paulo
+- 🇧🇷 Brazilian, working remotely around the world (but most of the time in São Paulo)
 
-- 🔥 Product Designer and **Junior Web Developer**
+- 🔥 Product Designer and **Frontend iOS Developer**
 
 - 🔭 My projects are available at [rafo.work](https://rafo.work)
 
