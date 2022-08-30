@@ -4,13 +4,13 @@
 
 ![counter](https://enhidfim5w4jdxw.m.pipedream.net)
 
-- 🇧🇷 Brazilian, working remotely around the world (but most of the time in São Paulo)
+- 🇧🇷 Brazilian, working remotely from São Paulo - Brazil
 
-- 🔥 Product Designer and **Frontend iOS Developer**
+- 🔥 **Frontend Developer** and Product Designer
 
-- 🔭 My projects are available at [rafo.work](https://rafo.work)
+- 🔭 My others projects are available at [rafo.work](https://rafo.work)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, TailwindCSS, Engineering and Design**
+- 💬 Ask me about **JavaScript, HTML, CSS, TailwindCSS, Next js, Engineering and Design**
 
 <br>
 
