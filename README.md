@@ -8,7 +8,7 @@
 
 - 🔥 **Frontend Developer** and Product Designer
 
-- 🔭 My others projects are available at [rafo.work](https://rafo.work)
+- 🔭 My other projects are available at [rafo.work](https://rafo.work)
 
 - 💬 Ask me about **JavaScript, Typescript, HTML, CSS, TailwindCSS, Next js, C#, S Engineering and Design**
 
