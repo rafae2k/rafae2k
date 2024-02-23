@@ -6,11 +6,11 @@
 
 - 🇧🇷 Brazilian, working remotely from São Paulo - Brazil
 
-- 🔥 **Frontend Developer** and Product Designer
+- 🔥 **Developer**, **Designer** and **Entrepeneur**
 
 - 🔭 My other projects are available at [rafo.work](https://rafo.work)
 
-- 💬 Ask me about **JavaScript, Typescript, HTML, CSS, TailwindCSS, Next js, C#, S Engineering and Design**
+- 💬 Ask me about **JavaScript, Typescript, HTML, CSS, TailwindCSS, Next js, C#, Engineering and Design**
 
 <br>
 
