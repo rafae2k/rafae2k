@@ -6,7 +6,7 @@
 
 - 🇧🇷 Brazilian, working remotely from São Paulo - Brazil
 
-- 🔥 **Developer**, **Designer** and **Entrepeneur**
+- 🔥 **Developer**, **Designer** and **Entrepreneur**
 
 - 🔭 My other projects are available at [rafo.work](https://rafo.work)
 
