@@ -8,6 +8,7 @@
 
 - 🔥 **Developer**, **Designer** and **Entrepreneur**
 
+<!--
 - 🔭 My other projects are available at [rafo.work](https://rafo.work)
 
 - 💬 Ask me about **JavaScript, Typescript, HTML, CSS, TailwindCSS, Next js, C#, Engineering and Design**
@@ -25,10 +26,10 @@
   </th>
 <!--   <tr>
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafae2k&show_icons=true&theme=radical&count_private=true" alt="Rafo's stats"/>
-  </tr> -->
+  </tr> 
 </table>
 
-
+-->
 
 
 <!-- - 👋 Hi, I’m Rafael, but you can call me Rafo
