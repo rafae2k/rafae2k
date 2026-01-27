@@ -15,6 +15,8 @@
 
 <br>
 
+-->
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <table>
@@ -24,12 +26,10 @@
   <th>
     <img height="252em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=radical" alt="Rafo's most used languages"/>    
   </th>
-<!--   <tr>
+<tr>
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafae2k&show_icons=true&theme=radical&count_private=true" alt="Rafo's stats"/>
   </tr> 
 </table>
-
--->
 
 
 <!-- - 👋 Hi, I’m Rafael, but you can call me Rafo
