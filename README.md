@@ -16,7 +16,7 @@
 <br>
 
 -->
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <table>
