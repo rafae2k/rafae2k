@@ -8,6 +8,10 @@
 
 - 🔥 **Developer**, **Designer** and **Entrepreneur**
 
+Looking to something interesting to read? [click here](https://rafo.work)
+
+
+
 <!--
 - 🔭 My other projects are available at [rafo.work](https://rafo.work)
 
